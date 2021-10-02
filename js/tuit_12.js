@@ -8,6 +8,6 @@ let a;
 // a = document.scripts;
 // a = document.title;
 // a = document.links;
-a = document.images;
+// a = document.images;
 
-console.log(a);
+// console.log(a);
